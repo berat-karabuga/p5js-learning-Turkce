@@ -16,8 +16,3 @@ Android Developer olmak için çalışırken, dijital sanat ilgimi ve JavaScript
 
 ---
 
-
-
-## 📫 İletişim
-
-Projelerimi beğendiysen, Instagram'dan bana ulaşabilirsin!
