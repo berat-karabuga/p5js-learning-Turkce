@@ -12,7 +12,7 @@ Android Developer olmak için çalışırken, dijital sanat ilgimi ve javaScript
 
 \### 1. Rastgele Hareket (19.11.2025)
 
-\- \[Canlı Demo] https://berat-karabuga.github.io/p5js-learning-Turkce/
+\- \[Canlı Demo] https://berat-karabuga.github.io/p5js-learning-Turkce/projeler/rastgele-hareket/
 
 \- \[Konular] random(), setup(), draw(), ellipse()
 
